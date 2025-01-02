@@ -1,4 +1,5 @@
 # TODO: Update with exact module version
+numpy
 opencv_python
 scikit-image
 tqdm
